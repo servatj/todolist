@@ -2,6 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://servatj.github.io/todolist",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.0.0",
