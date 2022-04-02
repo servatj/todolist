@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d96fd65f.css","mappings":"AAAA,MACE,UACF,CAEA,YACE,gBAAiB,CACjB,wBACF","sources":["components/Table/style.css"],"sourcesContent":["table {\n  width: 100%;\n}\n\ntable, th, td {\n  border: 1px solid;\n  border-collapse: collapse;\n}\n"],"names":[],"sourceRoot":""}
